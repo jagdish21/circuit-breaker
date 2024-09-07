@@ -1,0 +1,41 @@
+{
+  "name": "circuit-breaker-node",
+  "version": "1.0.3",
+  "description": "Circuit breaker library plugin for Node, express and sequelize with running example code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jagdish21/circuit-breaker-node.git"
+  },
+  "keywords": [
+    "circuit",
+    "breaker",
+    "express",
+    "node",
+    "plugin",
+    "nodemon",
+    "sequelize",
+    "tedious",
+    "sql server",
+    "store procedure",
+    "sql server inline query"
+  ],
+  "author": "Jagdish21",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jagdish21/circuit-breaker-node/issues"
+  },
+  "homepage": "https://github.com/jagdish21/circuit-breaker-node/blob/main/README.md",
+  "dependencies": {
+    "express": "^4.19.2",
+    "sequelize": "^6.37.3",
+    "tedious": "^18.6.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}
