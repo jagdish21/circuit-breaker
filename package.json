@@ -1,6 +1,6 @@
 {
   "name": "circuit-breaker-node",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Circuit breaker library plugin for Node, express and sequelize with running example code.",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "store procedure",
     "sql server inline query"
   ],
-  "author": "Jagdish21",
+  "author": "jagdish2157@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jagdish21/circuit-breaker-node/issues"

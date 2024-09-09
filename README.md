@@ -4,8 +4,8 @@ Circuit breaker library plugin for Node, express and sequelize with working API 
 ## Installation
 To install the package, run:
 ```bash
-npm install circuit-breaker
-npm i
+npm install circuit-breaker-node
+
 ```
 
 ## Example to use this plugin with Node.js express, SQL server.
