@@ -1,7 +1,7 @@
 {
   "name": "circuit-breaker-node",
-  "version": "1.0.5",
-  "description": "Circuit breaker library plugin for Node, express and sequelize with running example code.",
+  "version": "1.0.6",
+  "description": "Circuit breaker library plugin for Node, express and sequelize with running example code sql store procedure and inline query.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,12 +15,15 @@
     "breaker",
     "express",
     "node",
+    "server",
+    "backend",
     "plugin",
     "nodemon",
     "sequelize",
     "tedious",
+    "sql",
     "sql server",
-    "store procedure",
+    "sql store procedure",
     "sql server inline query"
   ],
   "author": "jagdish2157@gmail.com",
@@ -36,6 +39,5 @@
   },
   "directories": {
     "lib": "lib"
-  },
-  "devDependencies": {}
+  }
 }
