@@ -1,6 +1,6 @@
 {
   "name": "circuit-breaker-node",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Circuit breaker library plugin for Node, express and sequelize with running example code.",
   "main": "index.js",
   "scripts": {
