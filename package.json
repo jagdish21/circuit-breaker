@@ -1,6 +1,6 @@
 {
   "name": "circuit-breaker-node",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "Circuit breaker library plugin for Node, express and sequelize with running example code sql store procedure and inline query.",
   "main": "index.js",
   "scripts": {
